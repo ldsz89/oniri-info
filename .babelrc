@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    ["babel-plugin-transform-flow-strip-types"]
+  ],
+  "presets": [
+    [
+      "babel-preset-gatsby",
+      {
+        "targets": {
+          "browsers": [">0.25%", "not dead"]
+        }
+      }
+    ]
+  ]
+}

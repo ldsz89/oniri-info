@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:export-ydpi="450"
+   inkscape:export-xdpi="450"
+   inkscape:export-filename="C:\Users\Jeremy\Pictures\Oniri\Pathfinder_Insignia.png"
+   sodipodi:docname="Pathfinder_Insignia.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   id="svg2658"
+   version="1.1"
+   viewBox="0 0 259.82132 259.82132"
+   height="259.82132mm"
+   width="259.82132mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2652" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="63"
+     inkscape:window-height="1003"
+     inkscape:window-width="1312"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="570"
+     inkscape:cx="-412.85714"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2655">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(11.604119,-5.7827823)">
+    <g
+       transform="matrix(1.3819853,0,0,1.3819853,-8.8443466,-74.738492)"
+       style="display:inline"
+       id="g1041">
+      <circle
+         style="fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.167836;stroke-miterlimit:4;stroke-dasharray:0.503508, 0.503508;stroke-dashoffset:0;stroke-opacity:1"
+         id="path953"
+         cx="92.005966"
+         cy="152.26785"
+         r="80" />
+      <rect
+         style="fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.266945;stroke-miterlimit:4;stroke-dasharray:0.800834, 0.800834;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect960"
+         width="132.94022"
+         height="132.94022"
+         x="-23.858517"
+         y="-239.19778"
+         transform="rotate(135)" />
+    </g>
+    <g
+       transform="matrix(1.1930534,0,0,1.1930534,8.5385194,-45.970226)"
+       style="display:inline;fill:#000000"
+       id="g1041-2">
+      <circle
+         r="80"
+         cy="152.26785"
+         cx="92.005966"
+         id="path953-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.167836;stroke-miterlimit:4;stroke-dasharray:0.503508, 0.503508;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(135)"
+         y="-239.19778"
+         x="-23.858517"
+         height="132.94022"
+         width="132.94022"
+         id="rect960-4"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266945;stroke-miterlimit:4;stroke-dasharray:0.800834, 0.800834;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

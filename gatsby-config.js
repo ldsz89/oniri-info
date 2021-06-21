@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Portfolio",
+    title: "Oniri Information",
+    description: "A site detailing the fantasy race, Oniri, created for a science fiction role playing game."
   },
   plugins: [
     "gatsby-plugin-flow",
